@@ -6,6 +6,7 @@ package com.yfspark.lc;
 public class testlc {
     /**
      * 这是LC测试分支1 分支的测试内容
+     * 这是LC测试分支2 分支的测试内容
      */
 
     /**
